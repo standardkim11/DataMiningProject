@@ -12,3 +12,6 @@ Columns (4 Numeric , 1 Nominal)
 
 ![image](https://github.com/standardkim11/DataMiningProject/assets/117301457/bbf71503-3e25-4396-8308-8941ff3e477e)
 
+
+
+![image](https://github.com/standardkim11/DataMiningProject/assets/117301457/de84ae3e-d67d-4188-bde4-0c7e6bd303b0)
