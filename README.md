@@ -1,5 +1,8 @@
 # DataMiningProject
 
+Data 출처 
+http://archive.ics.uci.edu/ml/datasets/banknote+authentication
+
 Columns (4 Numeric , 1 Nominal)
   1. Wavelet 변환 이미지의 분산(연속) -  variance
   2. Wavelet 변환 이미지의 왜도(연속) -  skewness
