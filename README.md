@@ -7,4 +7,4 @@ Columns (4 Numeric , 1 Nominal)
   4. 이미지의 엔트로피(연속) - entropy
   5. 클래스(TRUE,FALSE)
 
-분석결과를 통해 제작한 분류기 (C++)사용
+분석결과를 통해 제작한 분류기 (C++사용)
