@@ -1,3 +1,7 @@
 # DataMiningProject
 
-![image](https://github.com/standardkim11/DataMiningProject/assets/117301457/2c8eee1d-0a6b-4f56-8dd8-1de566d20e05)
+1. Wavelet 변환 이미지의 분산(연속) -  variance
+2. Wavelet 변환 이미지의 왜도(연속) -  skewness
+3. Wavelet 변환 이미지의 첨도(연속) - kurtosis
+4. 이미지의 엔트로피(연속) - entropy
+5. 클래스(TRUE,FALSE)
