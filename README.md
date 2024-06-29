@@ -10,4 +10,5 @@ Columns (4 Numeric , 1 Nominal)
 분석결과를 통해 제작한 분류기 (C++사용)
 
 
-![Uploading image.png…]()
+![image](https://github.com/standardkim11/DataMiningProject/assets/117301457/bbf71503-3e25-4396-8308-8941ff3e477e)
+
