@@ -8,3 +8,6 @@ Columns (4 Numeric , 1 Nominal)
   5. 클래스(TRUE,FALSE)
 
 분석결과를 통해 제작한 분류기 (C++사용)
+
+
+![Uploading image.png…]()
